@@ -11,7 +11,7 @@ html5lib==0.999
 itsdangerous==0.24
 Jinja2==2.8
 ldap3==2.1.1
-lxml==3.7.3
+lxml==4.6.3
 MarkupSafe==0.23
 mod-wsgi==4.5.14
 premailer==3.0.1
